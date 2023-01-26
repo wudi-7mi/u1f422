@@ -1,2 +1,3 @@
 # u1f422
- Cute turtles
+
+This is a repository about cute turtle emoji.
